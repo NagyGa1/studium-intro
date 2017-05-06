@@ -16,7 +16,7 @@ the <span style="color: #666666">system</span> presents it in a consistent
 manner to <span style="color: #666666">all channels</span>: in-house, intermediaries, service providers,
 clients facing.
 
-Let's look at what we have.
+Let's look at what we have. <!-- .element: class="fragment" -->
 
 ---
 
