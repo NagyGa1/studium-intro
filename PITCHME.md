@@ -6,8 +6,9 @@ Introduction
 ---
 
 <span style="color: #e49436">Studium</span> is about to uproot the insurance
-IT landscape by proving that IT is not as problematic
-as it is experienced with large vendors.
+IT landscape.
+
+Lean, intuitive, works out of the box.
 
 ---
 
