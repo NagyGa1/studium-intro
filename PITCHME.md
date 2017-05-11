@@ -6,7 +6,7 @@ Introduction
 ---
 
 <span style="color: #e49436">Studium</span> is about to uproot the insurance
-IT landscape.
+core systems landscape.
 
 Lean, intuitive, works out of the box.
 
