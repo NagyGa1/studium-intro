@@ -80,6 +80,10 @@ Out of the box client facing UIs
 
 ---
 
+![QQ PrivateCar 1](assets/qq_privatecar.1.png)
+
+---
+
 ![QQ Health 2](assets/qq_health.2.png)
 
 ---
@@ -182,10 +186,10 @@ We keep actuaries happy.
 #### Specialty products
 
 No problem.
-Our data model has the flexibility to support them.
+Our in-house UI has the flexibility to support them.
 
-In fact, in our reference products, in-house underwriters are already
-able to define granular policy setups like some covers only at some risks
+With our reference products, underwriters are already
+able to define granular policy setups like covers only at specific risks
 at specific date ranges, the system does the required slice-and-dicing.
 
 ---
