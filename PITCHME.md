@@ -5,10 +5,12 @@ Introduction
 
 ---
 
-<span style="color: #e49436">Studium</span> is about to uproot the insurance
-core systems landscape.
+At <span style="color: #e49436">Studium</span> we separate IT aspects from
+the insurance product development, allowing insurers solely focus on the latter.
 
-Lean, intuitive, works out of the box.
+---
+
+We provide a system where insurance products can be set up in the matter of days or less.
 
 ---
 
