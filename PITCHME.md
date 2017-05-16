@@ -23,12 +23,6 @@ clients facing.
 
 #### Product lifecycle management
 
-Implement new products within days
-
-Adjust and release new product versions within clicks
-
----
-
 A <span style="color: #666666">product definition</span> is a self contained entity.
 
 Once it is done, can be saved into a <span style="color: #666666">text file</span> and <span style="color: #666666">uploaded</span> to the live
