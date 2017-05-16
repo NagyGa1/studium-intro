@@ -36,7 +36,7 @@ No redeployments!
 
 ---
 
-##### Product = Structure + Business rules
+#### Product = Structure + Business rules
 
 ![Product definition declarative](assets/product_def_example.1.png)
 
@@ -99,16 +99,16 @@ Out of the box client facing UIs
 Integrated, fully online, works on devices with all screen sizes
 
 ---
-###### Desktop
+#### Desktop
 ![Screen on a desktop](assets/screen_desktop.png)
 
 ---
 
-###### Tablet
+#### Tablet
 <img src="assets/screen_tablet.png" alt="Screen on a tablet" style="height: 500px" />
 
 ---
-###### Phone
+#### Phone
 <img src="assets/screen_phone.png" alt="Screen on a phone" style="height: 500px" />
 
 ---
