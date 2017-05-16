@@ -95,7 +95,7 @@ Out of the box client facing UIs
 ![QQ Health 5](assets/qq_health.5.payment.png)
 
 ---
-#### Technology
+### Technology
 Integrated, fully online, works on devices with all screen sizes
 
 ---
@@ -113,14 +113,14 @@ Integrated, fully online, works on devices with all screen sizes
 
 ---
 
-#### Client accounts support
+### Client accounts support
 
 Once a client buys a policy, an account is created to her and the link
 is sent. The client can <span style="color: #6f7dbc">self-administer</span> policies / claims from there onwards.
 
 ---
 
-#### Intermediary accounts self-management
+### Intermediary accounts self-management
 
 Intermediaries can sign up with their Google, Facebook, LinkedIn identities,
 or just by an email address.
@@ -137,7 +137,7 @@ They can <span style="color: #6f7dbc">administer</span> their <span style="color
 
 ---
 
-#### Policy management
+### Policy management
 
 Endorsements
 
@@ -147,7 +147,7 @@ Renewals
 
 ---
 
-#### Accounting
+### Accounting
 
 Proper pro-rata calculations out of the box.
 
@@ -155,19 +155,19 @@ The results can be fed to any <span style="color: #6f7dbc">general ledger</span>
 
 ---
 
-#### Promotional campaigns
+### Promotional campaigns
 
 <img src="assets/promotional_campaigns.png" alt="Promotional campaigns" />
 
 ---
 
-#### Coupons
+### Coupons
 
 <img src="assets/coupon_management.png" alt="Coupon management" />
 
 ---
 
-#### Data output for analytics
+### Data output for analytics
 
 We keep actuaries happy.
 
@@ -179,7 +179,7 @@ We keep actuaries happy.
 
 ---
 
-#### Specialty products
+### Specialty products
 
 No problem.
 Our in-house UI has the flexibility to support them.
@@ -196,7 +196,7 @@ E.g.
 
 ---
 
-#### Performance
+### Performance
 
 <ul style="font-size: 0.6em">
 <li>Tested with 10M randomly generated policies</li>
@@ -210,7 +210,7 @@ E.g.
 
 ---
 
-#### Response times
+### Response times
 
 <span style="font-size: 0.8em">
 All tiers on a development desktop, 10M policies on the user's active account:
@@ -236,4 +236,4 @@ All tiers on a development desktop, 10M policies on the user's active account:
 
 Don't take our word for all this.
 
-#### Give us your product brochure, we come to your office with the products done!
+### Give us your product brochure, we come to your office with the products done!
