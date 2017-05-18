@@ -9,19 +9,19 @@ At <a href="https://studium.sg" style="color: #e49436" target="__blank">STUDIUM<
 
 ---
 
-The <span style="color: #666666">insurer</span> defines the <span style="color: #666666">product</span>,
-the <span style="color: #666666">system</span> presents it in a consistent
-manner to <span style="color: #666666">all channels</span>: in-house, intermediaries, service providers,
+The <span style="color: #6f7dbc">insurer</span> defines the <span style="color: #6f7dbc">product</span>,
+the <span style="color: #6f7dbc">system</span> presents it in a consistent
+manner to <span style="color: #6f7dbc">all channels</span>: in-house, intermediaries, service providers,
 clients facing.
 
 ---
 
 #### Product lifecycle management
 
-A <span style="color: #666666">product definition</span> is a self contained entity.
+A <span style="color: #6f7dbc">product definition</span> is a self contained entity.
 
-Once it is done, can be saved into a <span style="color: #666666">text file</span> and <span style="color: #666666">uploaded</span> to the live
-environment, where it is usable <span style="color: #666666">instantly</span>.
+Once it is done, can be saved into a <span style="color: #6f7dbc">text file</span> and <span style="color: #6f7dbc">uploaded</span> to the live
+environment, where it is usable <span style="color: #6f7dbc">instantly</span>.
 
 ---
 
@@ -109,7 +109,7 @@ Integrated, fully online, works on devices with all screen sizes
 #### Client accounts support
 
 Once a client buys a policy, an account is created to her and the link
-is sent. The client can <span style="color: #666666">self-administer</span> policies / claims from there onwards.
+is sent. The client can <span style="color: #6f7dbc">self-administer</span> policies / claims from there onwards.
 
 ---
 
@@ -124,7 +124,7 @@ Product access can be granted to them by inhouse staff.
 
 Account owners may grant access to other people.
 
-They can <span style="color: #666666">administer</span> their <span style="color: #666666">own workforce</span>!
+They can <span style="color: #6f7dbc">administer</span> their <span style="color: #6f7dbc">own workforce</span>!
 
 <img src="assets/account_grants.png" alt="Account grants" />
 
@@ -144,7 +144,7 @@ Renewals
 
 Proper pro-rata calculations out of the box.
 
-The results can be fed to any <span style="color: #666666">general ledger</span> system.
+The results can be fed to any <span style="color: #6f7dbc">general ledger</span> system.
 
 ---
 
