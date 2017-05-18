@@ -5,7 +5,7 @@ Introduction
 
 ---
 
-At <span style="color: #e49436">STUDIUM</span>, we separate IT aspects from
+At <a href="https://studium.sg" style="color: #e49436" target="__blank">STUDIUM</a>, we separate IT aspects from
 the insurance product development, allowing insurers solely focus on the latter.
 
 ---
