@@ -5,12 +5,7 @@ Introduction
 
 ---
 
-At <span style="color: #e49436">STUDIUM</span>, we separate IT aspects from
-the insurance product development, allowing insurers solely focus on the latter.
-
----
-
-We provide a system where insurance products can be set up in the matter of days or less.
+At <a href="https://studium.sg" style="color: #e49436" target="__blank">STUDIUM</a>, we believe that insurance product implementations should take days not months.
 
 ---
 
