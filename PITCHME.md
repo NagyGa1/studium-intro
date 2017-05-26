@@ -170,6 +170,7 @@ We keep actuaries happy.
 - client revisits to those, with request parameters
 - success indicators
 - all policies
+- <a href="https://gitpitch.com/NagyGa1/lrguard-intro" target="__blank">pricing AI</a> integration
 - (...later claims data linked to benefits, planned)
 
 ---
